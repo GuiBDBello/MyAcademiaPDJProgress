@@ -22,3 +22,39 @@
 ## Apresentação no fórum:
 
 - https://pdjforum.com/t/novo-membro-novamente-guilherme-brunetto-dall-bello/6021
+
+## Estrutura do curso e maratonas de desenvolvimento:
+
+- Os materiais são divididos em: básico, intermediário e avançado;
+
+### Módulo 1: Afiando o Machado:
+
+- Mentalidade;
+- O que você precisa "perceber" antes de criar seu jogo para ter uma visão correta do que será necessário fazer antes de iniciar o desenvolvimento;
+
+### Módulo 2: Prototipagem e Pré-Produção:
+
+- Testes;
+- Estágios iniciais do jogo, testar mecânicas, ideias, diversão;
+
+### Módulo 3: Desenvolvimento:
+
+- Desenvolvimento;
+- Biblioteca com vários cursos e materiais;
+
+### Módulo 4: Finalização e Publicação:
+
+- Polimentos;
+- Pegar o seu jogo que está em Alpha, polir e publicar em uma loja mobile/PC/Mac;
+
+### Módulo 5: Subindo de Nível:
+
+- A grande sacada da Academia PDJ;
+- Escopos concêntricos. Começar pequeno e ir evoluindo. Feedback positivo;
+- Aprender tudo o que você precisa para refazer os módulos 1-4 para um novo projeto com escopo maior;
+
+### Maratonas de desenvolvimento:
+
+- Durante o curso, irão ocorrer diversas maratonas de desenvolvimento de jogos (game jams);
+- 2 dias, 10 dias até 12 semanas;
+- Montar equipes antes da maratona;
