@@ -58,3 +58,16 @@
 - Durante o curso, irão ocorrer diversas maratonas de desenvolvimento de jogos (game jams);
 - 2 dias, 10 dias até 12 semanas;
 - Montar equipes antes da maratona;
+
+## Minhas recomendações específicas para você:
+
+- A chave para ter sucesso e desenvolver um projeto grande é **conseguir aprender a se motivar de forma sistemática**, ou seja, **criar sistemas que te mantenham motivado por todo o processo**;
+- **Pessoas de alta performance são pessoas que conseguem trabalhar mesmo quando não estão motivadas**;
+
+### 5 dicas para se manter motivado:
+
+- Baixar as entrevistas para ouvir diariamente;
+- Confie no processo. Dê um passo de cada vez;
+- Foco. Planejar o ambiente e horários para desenvolver seu projeto;
+- Prepare-se para fracassar e ficar frustrado. O fracasso faz parte do caminho até o sucesso;
+- Divirta-se. Conheça novas pessoas, bata um papo, divirta-se!;
