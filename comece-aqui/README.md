@@ -18,3 +18,7 @@
 
 - Comunidade da Academia de Produção de Jogos;
 - Fórum: discutir ideias, aulas, entrevistas;
+
+## Apresentação no fórum:
+
+- https://pdjforum.com/t/novo-membro-novamente-guilherme-brunetto-dall-bello/6021
