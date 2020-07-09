@@ -1,2 +1,8 @@
 # MyAcademiaPDJProgress
-Repository created to upload my progress at Academia de Produção de Jogos
+
+Repositório criado para guardar meu progresso na Academia de Produção de Jogos.
+
+## Módulos:
+
+- Comece Aqui: 
+- Módulo 1: 
