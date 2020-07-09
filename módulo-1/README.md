@@ -69,3 +69,47 @@
 #### Projetos Terceirizados:
 
 - Atua como gerente de projetos. Cria o *design document* e contrata uma equipe terceirizada para desenvolver;
+
+## Pitadas de Marketing:
+
+### Você precisa de Marketing para vender:
+
+- Se o jogo for muito bom e não tiver Marketing, pode ser que não venda nada, enquanto um jogo mediano com um bom Marketing pode vender bastante;
+
+### Marketing não é propaganda:
+
+- Marketing é sobre entender seu público-alvo;
+- Entenda seu "usuário padrão" (persona, avatar);
+- Defina seu avatar/persona para entender seu público e aprender como alcançá-lo;
+- Quanto melhor definido é seu público-alvo, mais fácil será fazer anúncios para atingí-lo;
+
+### Marketing não é um evento, é um processo:
+
+- Marketing é algo que não ocorre de uma hora para outra, é algo que leva tempo;
+
+#### O Funil AIDA:
+
+- "O modelo AIDA descreve o processo básico pelo qual a pessoa se torna motivada a efetuar uma compra."
+- O modelo é um "funil" pois a cada etapa o número de pessoas é menor;
+- *Lead*: pessoa que está no funil e tem potencial de comprar seu jogo a qualquer momento;
+
+##### Awareness (Atenção):
+
+- Saber que seu jogo existe;
+- Nessa etapa, você deve fazer com que as pessoas saibam que seu jogo existe;
+- Propagandas em sites, anúncios, *pop-ups*, *outdoors*;
+
+##### Interest (Interesse):
+
+- Sabe que seu jogo existe, e pode demonstrar interesse por ele;
+- Nessa etapa, o *Lead* já sabe que o jogo existe e vai atrás de mais informações do produto;
+- Trailer, página web, reviews, busca no google;
+
+##### Decision
+
+- Além de ter interesse, a pessoa decide/deseja jogar seu jogo;
+- Nessa etapa, o *Lead* já se informou sobre o produto e deseja obtê-lo;
+
+##### Action
+
+- A ação de comprar o jogo;
