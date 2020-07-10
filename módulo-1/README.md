@@ -130,3 +130,10 @@
 - "Tarefas individuais, com datas limite, raramente terminam antes, pois as pessoas que fazem o trabalho tendem a expandí-lo para terminá-lo próximo à data de entrega."
 - "A gente tende a ser tão eficiente quanto necessário, não tão eficiente quanto podemos ser."
 - **Aprenda a definir prazos que te coloquem no máximo de sua eficiência** para você tentar ser tão eficiente quanto você consegue, não tão eficiente quanto a tarefa pede;
+
+## Ciclos de Desenvolvimento e a Arte de Finalizar Projetos:
+
+### Escopos Concêntricos:
+
+- Comece a desenvolver jogos simples, e após finalizá-lo aumente o escopo do próximo jogo;
+- Essa relação de Escopos Concêntricos pode também ser aplicada ao mesmo jogo, com a primeira versão do jogo possuindo apenas a base dele, e após finalizá-lo e publicá-lo, ir aumentando seu escopo a cada nova versão;
