@@ -113,3 +113,20 @@
 ##### Action
 
 - A ação de comprar o jogo;
+
+## Princípio de Paretto e Lei de Parkinson no Desenvolvimento de Jogos:
+
+### Princípio de Paretto:
+
+- Também conhecido como "Regra 80/20";
+- "Aproximadamente 80% dos resultados são originados de apenas 20% das ações."
+- **Ex.:** 80% do desenvolvimento de um jogo é concluído em 20% do tempo.
+- Isso ocorre pois muito tempo é gasto nas partes de polimento e balanceamento;
+- **Ex.2:** 80% da diversão de um jogo vem de apenas 20% de seus elementos.
+
+### Lei de Parkinson:
+
+- "O trabalho se expande de modo a preencher o tempo disponível para a sua realização."
+- "Tarefas individuais, com datas limite, raramente terminam antes, pois as pessoas que fazem o trabalho tendem a expandí-lo para terminá-lo próximo à data de entrega."
+- "A gente tende a ser tão eficiente quanto necessário, não tão eficiente quanto podemos ser."
+- **Aprenda a definir prazos que te coloquem no máximo de sua eficiência** para você tentar ser tão eficiente quanto você consegue, não tão eficiente quanto a tarefa pede;
