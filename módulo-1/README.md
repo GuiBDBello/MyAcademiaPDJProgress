@@ -137,3 +137,13 @@
 
 - Comece a desenvolver jogos simples, e após finalizá-lo aumente o escopo do próximo jogo;
 - Essa relação de Escopos Concêntricos pode também ser aplicada ao mesmo jogo, com a primeira versão do jogo possuindo apenas a base dele, e após finalizá-lo e publicá-lo, ir aumentando seu escopo a cada nova versão;
+
+## A Fundação da Behold Studios:
+
+- Saulo Camarotti;
+- Começou a empresa pensando em *Advergames*;
+- Na época, em 2009, ainda não se falava de *Indie Games*, se falava mais em jogos Mobile e jogos de Facebook;
+- 2 anos em uma encubadora, apenas com dinheiro para comprar 2 computadores;
+- Começaram com 2 programadores, desenvolvendo jogos Mobile e para Facebook, com ideia de terceirizar a arte e outras áreas;
+- Em 2009 participaram de um concurso (*BR Games*) do Ministério da Cultura, e foram uma das 10 equipes contempladas com o prêmio de R$30000,00, o que foi suficiente para iniciar a Behold;
+- No final de 2012, após contratar mais funcionários, a empresa faliu por motivos de ter uma folha de pagamento alta e precisar ir toda hora atrás de clientes. Nesse momento, alguns dos funcionários decidiram fazer um jogo por conta própria, se reunindo todos os dias em uma cafeteria de uma livraria. No final do projeto, conseguiram um investidor, reestruturando a empresa e mudando o foco de *Advergames* para **jogos autorais**, e foi assim que surgiu o *Knights of Pen and Paper*;
