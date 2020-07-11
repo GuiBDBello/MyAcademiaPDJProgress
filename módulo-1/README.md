@@ -167,3 +167,13 @@
 - Foi criado um WBS (*Work Breakdown Structure* ou Estrutura Analítica do Projeto) para organizar a estrutura de trabalho de cada membro;
 - A arte foi feita em *Pixel Art*;
 - A equipe também criou um *Press Kit* e um site para promover a Pixfrontier e "O Vôo dos Gansos";
+
+## De Economista em Multinacionais a Desenvolvedor de Jogos:
+
+- Pérsis Duaik;
+- Teve diversos empregos diferentes, mas nunca estava safisfeito, então decidiu empreender com seu irmão e produzir algo que "fazia mais sentido" para ele, pois gostava de elaborar produtos;
+- Mudou de carreira com o propósito de desenvolver jogos, porém não tinham dinheiro. Para arrecadar dinheiro, começou desenvolvendo sites, animação 2D, animação 3D, produtos relacionados à jogos;
+- Largou a carreira de repente, sem ter um planejamento definido. Devido à isso, levou um tempo até decidir exatamente os passos que ia seguir;
+- Não tinham dinheiro para contratar um programador, então fizeram um curso de programação de *XNA* na *Alpha Channel* para desenvolver os jogos;
+- Muitas funcionalidades do jogo eles não sabiam desenvolver, então eles encontravam outra solução;
+- **Ex.:** eles não sabiam criar plataformas móveis, então o personagem subia nos galhos batendo nos inimigos;
