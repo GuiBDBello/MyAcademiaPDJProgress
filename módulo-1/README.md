@@ -177,3 +177,9 @@
 - Não tinham dinheiro para contratar um programador, então fizeram um curso de programação de *XNA* na *Alpha Channel* para desenvolver os jogos;
 - Muitas funcionalidades do jogo eles não sabiam desenvolver, então eles encontravam outra solução;
 - **Ex.:** eles não sabiam criar plataformas móveis, então o personagem subia nos galhos batendo nos inimigos;
+
+## Conselhos para quem está começando e a importância de ser autodidata:
+
+- "Não menospreze a força de ser autodidata";
+- Você precisa ir atrás da informação, não espere ela cair no seu colo;
+- Não deposite todas suas fichas em apenas uma fonte de conhecimento, busque em diversas fontes;
