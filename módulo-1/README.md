@@ -147,3 +147,23 @@
 - Começaram com 2 programadores, desenvolvendo jogos Mobile e para Facebook, com ideia de terceirizar a arte e outras áreas;
 - Em 2009 participaram de um concurso (*BR Games*) do Ministério da Cultura, e foram uma das 10 equipes contempladas com o prêmio de R$30000,00, o que foi suficiente para iniciar a Behold;
 - No final de 2012, após contratar mais funcionários, a empresa faliu por motivos de ter uma folha de pagamento alta e precisar ir toda hora atrás de clientes. Nesse momento, alguns dos funcionários decidiram fazer um jogo por conta própria, se reunindo todos os dias em uma cafeteria de uma livraria. No final do projeto, conseguiram um investidor, reestruturando a empresa e mudando o foco de *Advergames* para **jogos autorais**, e foi assim que surgiu o *Knights of Pen and Paper*;
+
+## Como 5 desconhecidos fizeram um jogo do zero em 10 dias:
+
+- https://www.youtube.com/watch?v=Wc8JygwSdPc
+- Equipe: Pixfrontier;
+- Jogo: O Vôo dos Gansos;
+- Tema: União;
+
+### Game Jam:
+
+- O jogo foi desenvolvido em uma *Game Jam*, com duração de 10 dias, realizada em Julho de 2015 pela Academia de Produção de Jogos;
+- A ideia do jogo surgiu da ideia de animais que precisavam da união para sobreviver, então houve o *insight* dos Gansos, que migram entre regiões para sobreviver. A partir dessa ideia, foram definidas as mecânicas do jogo, e a forma de trabalho da equipe;
+
+### Desenvolvimento:
+
+- *Game Engine*: Construct 2;
+- Os horários dos membros não eram compatíveis, então a equipe dividia as tarefas e no final de *checkpoints* havia a integração destas;
+- Foi criado um WBS (*Work Breakdown Structure* ou Estrutura Analítica do Projeto) para organizar a estrutura de trabalho de cada membro;
+- A arte foi feita em *Pixel Art*;
+- A equipe também criou um *Press Kit* e um site para promover a Pixfrontier e "O Vôo dos Gansos";
