@@ -140,7 +140,7 @@
 
 ## A Fundação da Behold Studios:
 
-- Saulo Camarotti;
+- Saulo Camarotti (Behold Studios);
 - Começou a empresa pensando em *Advergames*;
 - Na época, em 2009, ainda não se falava de *Indie Games*, se falava mais em jogos Mobile e jogos de Facebook;
 - 2 anos em uma encubadora, apenas com dinheiro para comprar 2 computadores;
@@ -170,7 +170,7 @@
 
 ## De Economista em Multinacionais a Desenvolvedor de Jogos:
 
-- Pérsis Duaik;
+- Pérsis Duaik (Duaik Entretenimento);
 - Teve diversos empregos diferentes, mas nunca estava safisfeito, então decidiu empreender com seu irmão e produzir algo que "fazia mais sentido" para ele, pois gostava de elaborar produtos;
 - Mudou de carreira com o propósito de desenvolver jogos, porém não tinham dinheiro. Para arrecadar dinheiro, começou desenvolvendo sites, animação 2D, animação 3D, produtos relacionados à jogos;
 - Largou a carreira de repente, sem ter um planejamento definido. Devido à isso, levou um tempo até decidir exatamente os passos que ia seguir;
@@ -180,6 +180,13 @@
 
 ## Conselhos para quem está começando e a importância de ser autodidata:
 
+- Pérsis Duaik (Duaik Entretenimento);
 - "Não menospreze a força de ser autodidata";
 - Você precisa ir atrás da informação, não espere ela cair no seu colo;
 - Não deposite todas suas fichas em apenas uma fonte de conhecimento, busque em diversas fontes;
+
+## A necessidade de ressaltar as suas maiores habilidades:
+
+- André Alves (Little Leds);
+- Visionaire Studio: *Game Engine* simples de usar, que facilita a parte da programação, com foco em desenvolver jogos *Point'n Click*;
+- André utilizou essa *Engine* para desenvolver seu jogo *Point'n Click*, pois possuia boa experiência com arte gráfica e pouca experiência com programação;
