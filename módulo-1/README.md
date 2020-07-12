@@ -190,3 +190,9 @@
 - André Alves (Little Leds);
 - Visionaire Studio: *Game Engine* simples de usar, que facilita a parte da programação, com foco em desenvolver jogos *Point'n Click*;
 - André utilizou essa *Engine* para desenvolver seu jogo *Point'n Click*, pois possuia boa experiência com arte gráfica e pouca experiência com programação;
+
+## Linguagens de programação - qual é a mais indicada para aprender no começo:
+
+- Alexandre Ribeiro (Vortex Game Studios);
+- Por hobby, C#. É fácil, tem muita documentação, a Unity utiliza e é compilado para qualquer plataforma;
+- Para indústria, C#: E após aprender bem o C#, busque o C++, pois há uma carência de profissionais qualificados para essa linguagem;
