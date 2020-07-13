@@ -339,3 +339,10 @@
 
 - Inteligência Emocional - Daniel Goleman;
 - Inteligência Social – Daniel Goleman;
+
+## Dicas sobre como trabalhar em equipe:
+
+- Henrique Caprino (Pocket Trap);
+- Ter certeza que os membros da equipe possuem o mesmo objetivo;
+- Em uma equipe pequena, alguns integrantes podem trabalhar na mesma tarefa. Para evitar conflitos, é necessário estabelecer limites para que os membros não mexam na tarefa do outro sem permissão;
+- Os conflitos devem ser resolvidos o quanto antes, se não poderá gerar um problema maior nos estágios finais do projeto;
