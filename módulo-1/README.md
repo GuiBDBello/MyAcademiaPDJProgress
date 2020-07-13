@@ -346,3 +346,16 @@
 - Ter certeza que os membros da equipe possuem o mesmo objetivo;
 - Em uma equipe pequena, alguns integrantes podem trabalhar na mesma tarefa. Para evitar conflitos, é necessário estabelecer limites para que os membros não mexam na tarefa do outro sem permissão;
 - Os conflitos devem ser resolvidos o quanto antes, se não poderá gerar um problema maior nos estágios finais do projeto;
+
+## O que um desenvolvedor indie deve ter em mente para ter sucesso:
+
+### Sucesso comercial:
+
+- Ter foco para finalizar projetos, lançá-los, identificar o que deu errado e adaptar para o próximo projeto;
+
+### Reconhecimento:
+
+- Fazer o melhor jogo possível, da forma mais polida possível;
+- Fazer o jogo "conversar" com o jogador, de uma forma que ele entenda;
+- Fazer o jogador se divertir;
+- Para isso, é necessário muito *playtest*;
