@@ -1,5 +1,25 @@
 # Módulo #1: Afiando o Machado
 
+- [Introdução ao Desenvolvimento Independente de Jogos](#introdução-ao-desenvolvimento-independente-de-jogos)
+- [3 Modelos Mentais para Internalizar Agora Mesmo](#3-modelos-mentais-para-internalizar-agora-mesmo)
+- [Pitadas de Mercado](#pitadas-de-mercado)
+- [Pitadas de Marketing](#pitadas-de-marketing)
+- [Princípio de Paretto e Lei de Parkinson no Desenvolvimento de Jogos](#princípio-de-paretto-e-lei-de-parkinson-no-desenvolvimento-de-jogos)
+- [Ciclos de Desenvolvimento e a Arte de Finalizar Projetos](#ciclos-de-desenvolvimento-e-a-arte-de-finalizar-projetos)
+
+## Biblioteca
+
+- [A Fundação da Behold Studios](#a-fundação-da-behold-studios)
+- [Como 5 desconhecidos fizeram um jogo do zero em 10 dias](#como-5-desconhecidos-fizeram-um-jogo-do-zero-em-10-dias)
+- [De Economista em Multinacionais a Desenvolvedor de Jogos](#de-economista-em-multinacionais-a-desenvolvedor-de-jogos)
+- [Conselhos para quem está começando e a importância de ser autodidata](#conselhos-para-quem-está-começando-e-a-importância-de-ser-autodidata)
+- [A necessidade de ressaltar as suas maiores habilidades](#a-necessidade-de-ressaltar-as-suas-maiores-habilidades)
+- [Linguagens de programação - qual é a mais indicada para aprender no começo](#linguagens-de-programação-qual-é-a-mais-indicada-para-aprender-no-começo)
+- [Como trabalhar em equipe](#como-trabalhar-em-equipe)
+- [Dicas sobre como trabalhar em equipe](#dicas-sobre-como-trabalhar-em-equipe)
+- [O que um desenvolvedor indie deve ter em mente para ter sucesso](#o-que-um-desenvolvedor-indie-deve-ter-em-mente-para-ter-sucesso)
+- [Como achar e fazer o trabalho que você ama](#como-achar-e-fazer-o-trabalho-que-você-ama)
+
 ## Introdução ao Desenvolvimento Independente de Jogos:
 
 - Dedique um tempo para afiar o machado antes de ir à guerra. Prepare-se antes de se apressar para iniciar o desenvolvimento;
@@ -359,3 +379,47 @@
 - Fazer o jogo "conversar" com o jogador, de uma forma que ele entenda;
 - Fazer o jogador se divertir;
 - Para isso, é necessário muito *playtest*;
+
+## Como achar e fazer o trabalho que você ama:
+
+- Scott Dinsmore;
+
+### Quando sair do seu trabalho?
+
+- "Taking jobs to build up your resume is the same as saving up sex for old age." -Warren Buffet;
+- Cerca de 80% das pessoas não gostam do seu trabalho;
+
+### O que separa essas pessoas que são apaixonadas por seus trabalhos?
+
+- "Eu quero encontrar um trabalho que eu não posso deixar de fazer";
+- Pergunta: "Por quê você está fazendo o trabalho que está fazendo?" Resposta: "Porque alguém disse que eu tenho que fazer.";
+
+### 3 coisas que pessoas apaixonadas por seus trabalhos têm em comum (Passionate Work Framework):
+
+#### Torne-se um especialista em si próprio:
+
+- Se você não sabe o que está buscando, você nunca vai encontrar;
+- Quais são seus **pontos fortes**? As coisas que você acorda querendo fazer? As coisas pelas quais as pessoas lhe agradecem por fazer?
+- Quais são seus **valores**? Qual hierarquia de prioridades define nossa tomada de decisões? Família, saúde, conquistas, sucesso? Nós temos que descobrir o que é que nos faz tomar decisões;
+- Quais **experiências** você já vivenciou? Nós aprendemos coisas novas todos os dias, todos os minutos. O que você ama? O que você odeia? Em quê você é ótimo? Em quê você é péssimo?
+- Ao colocar isso junto, você começará a entender **o que sucesso significa para você**, ou melhor, a **sua definição de sucesso**;
+
+#### Faça o impossível:
+
+- As pessoas não fazem as coisas por dois motivos: **1.** Você diz para si mesmo que não consegue fazer ou **2.** As pessoas ao seu redor dizem que você não pode fazer;
+- Tudo é impossível até alguém fazer;
+- Quando você prova que os outros estão errados sobre seus limites e que você está errado sobre seus próprios limites, você vê que pode sempre expandir seus limites, um pouquinho de cada vez.
+
+#### Cerque-se de pessoas apaixonadas:
+
+- A maneira mais rápida de fazer as coisas que você acha que são impossíveis é cercar-se de pessoas que já as fazem;
+- Ao mudar de ambiente, o pensamento foi de "como posso fazer isso?" para "como eu não posso fazer isso?";
+- Você não precisa mudar seus objetivos, você só precisa mudar seu ambiente;
+- **Nós devemos controlar nosso ambiente**, decidir quais são as pessoas com quem gastamos nosso tempo;
+
+### Sob o nosso controle:
+
+- Então, juntando tudo, nós temos esses 3 pilares e todos eles compartilham pelo menos uma coisa em comum: eles estão 100% sob o nosso controle.
+- **Ninguém pode te dizer que você não pode aprender mais sobre si próprio.**
+- **Ninguém pode te dizer que você não pode expandir seus próprios limites e redefinir sua noção de impossível.**
+- **Ninguém pode te dizer que você não pode se cercar de pessoas que tem inspiram ou se afastar das pessoas que te deixam pra baixo.**

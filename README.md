@@ -4,5 +4,5 @@ Repositório criado para guardar meu progresso na Academia de Produção de Jogo
 
 ## Módulos:
 
-- Comece Aqui: 
-- Módulo 1: 
+- [Comece Aqui](./comece-aqui)
+- [Módulo 1](./módulo-1)

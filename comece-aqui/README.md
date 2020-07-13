@@ -1,5 +1,10 @@
 # Módulo #0: Primeiros Passos
 
+- [Nossos 3 pilares](#nossos-3-pilares)
+- [Apresentação no fórum](#apresentação-no-fórum)
+- [Estrutura do curso e maratonas de desenvolvimento](#estrutura-do-curso-e-maratonas-de-desenvolvimento)
+- [Minhas recomendações específicas para você](#minhas-recomendações-específicas-para-você)
+
 ## Nossos 3 pilares:
 
 - Conhecimento, inspiração, comunidade.
