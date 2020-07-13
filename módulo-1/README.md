@@ -196,3 +196,146 @@
 - Alexandre Ribeiro (Vortex Game Studios);
 - Por hobby, C#. É fácil, tem muita documentação, a Unity utiliza e é compilado para qualquer plataforma;
 - Para indústria, C#: E após aprender bem o C#, busque o C++, pois há uma carência de profissionais qualificados para essa linguagem;
+
+## Como trabalhar em equipe:
+
+### Apresentação:
+
+- Marco Enes é gerente de projetos há 14 anos, com experiência em grandes empresas como Light, Petrobrás, Eletropaulo, Dell, Renner, etc.;
+
+### Startup Weekend:
+
+- Evento onde as equipes precisam montar um MVP (Produto Mínimo Viável) para ser julgado por uma bancada. Os membros não se conhecem antes do dia, e tudo é definido por sorteio;
+- Adquirir a experiência é mais importante que a visão do produto final;
+
+### Planejamento:
+
+- Os gerentes de projeto que têm mais sucesso são aqueles que sabem onde querem chegar mas são mais flexíveis na abordagem quando algo não ocorre dentro do esperado;
+
+### Liderança:
+
+- Dica do Raphael: "não adianta ficar obcecado com o produto final, pois nem sempre ele será o que trará sucesso ou dinheiro. É mais provável que o aprendizado seja mais importante";
+- Quando você está obcecado pelo seu objetivo, sua equipe deixa de ser um time caminhando junto, se ajudando. Se um membro deixa de fazer algo no projeto já se torna um "peso";
+- O líder deve estar presente para ajudar todo mundo da equipe;
+
+### Desenvolvimento:
+
+- Sobre empresas que terceirizam a criação do produto. "A jornada é o mais importante", diz Marco Enes;
+- Uma boa interação entre os membros da equipe é essencial para um produto ter sucesso;
+
+### Por quê as boas ideias morrem cedo:
+
+#### O ciclo de motivação:
+
+- A motivação é o "combustível" para a equipe;
+
+##### Fase 1: Ideias não têm peso
+
+- A ideia não vale praticamente nada;
+- Evento nos EUA chamado 99U (99 por cento);
+- "O sucesso é 1% inspiração e 99% transpiração";
+
+##### Fase 2: Sentando na pedra:
+
+- É preciso começar a trabalhar. "Não basta visualizar, é preciso pintar o quadro" – Marco Enes;
+- "Simplicity is the ultimate sophistication" - Leonardo Da Vinci;
+- Ao executar a ideia, o trabalho começa a ficar difícil, a motivação começa a cair, você começa a se questionar se o esforço vale à pena;
+- É necessário passar por essas etapas para ver que o esforço valeu à pena;
+
+##### Fase 3: Atingindo órbita:
+
+- Quando o empreendedor passa pelas fases 1 e 2 ele entra na fase de órbita, que é começar a ver os resultados;
+
+#### A síndrome do novo filho:
+
+##### Dedicação 100% sem esperar alto retorno:
+
+- O que mais causa complicações no relacionamento no trabalho é falta de gerenciamento de expectativa;
+
+##### A relação do casal é constantemente ameaçada:
+
+- A relação da equipe é constantemente ameaçada;
+- Os membros da equipe precisam ceder em alguns aspectos de sua vida pessoal para crescer em sua vida profissional;
+
+##### A felicidade está no caminho:
+
+- É importante saber que todos na equipe estão se esforçando e trabalhando juntos. E nem todo mundo vai se esforçar igual;
+- Quando uma pessoa está trabalhando muito, por mais que outro colega também esteja trabalhando muito também, ela não perceberá esse esforço;
+- A disputa é um perde - perde. Quando duas pessoas disputam se elas esquecem do resultado. O correto é sempre respeitar a opinião diferente. É preciso ter inteligência emocional. Só se chega a um consenso abrindo mão;
+- O empreendedor sente que a negociação foi justa quando as partes cedem um pouco daquela visão do todo;
+- Uma tática interessante para quando a pessoa não quer ceder com sua visão é justificar por que aquilo não funcionaria tão bem, mas confiar na opinião do colega de equipe. Caso der errado, a responsabilidade é da outra pessoa. Geralmente, o outro volta atrás para chegar em um meio-termo;
+
+##### Valores chave:
+
+- Simplicidade: a tendência de uma equipe é complicar tudo. Isso deve ser evitado, escolhendo a simplicidade no lugar da complexidade;
+- Honestidade: seja honesto em relação ao que quer falar. Quando não há honestidade, irá chegar o momento em que o membro da equipe "explode", resultando em uma briga ou demissão;
+- Comprometimento: esteja comprometido com o resultado do projeto. É frustrante ver que outro membro da equipe não tem o mesmo comprometimento;
+- Cumplicidade: seja cúmplice do projeto. Quando uma ideia dá errado, dê apoio ao seu colega. A equipe deve se ajudar;
+
+#### Táticas:
+
+- Líder não é o chefe: o líder deve dar a direção correta e ajudar a equipe. Escolham alguém para fazer a integração das tarefas;
+- "1 rolo de papel higiênico pela metade": combinem o comprometimento em dividir os recursos e o trabalho;
+
+##### Dicas para definir o líder da equipe remotamente ou presencialmente:
+
+- Online: as pessoas podem votar ao mesmo tempo ou anonimamente em quem eles querem que lidere a equipe;
+- Presencialmente: todos podem apontar para uma pessoa ao mesmo tempo. A tendência é que essa pessoa seja quem elas veem como líder;
+- A figura do líder deve estar presente para contribuir, e não mandar nas outras pessoas;
+
+### Perguntas:
+
+#### Como tentar motivar algum membro da equipe que esteja querendo desistir por falta de habilidade técnica?
+
+- O caminho é mais importante que o aprendizado. A pessoa deve ter liberdade para falar o que não sabe e a equipe deve deixá-la contribuir com o que ela sabe;
+- Dica do Raphael: "o que vale é a experiência. É possível contribuir de diferentes formas. Focar na comunicação, pois esse ponto é essencial";
+
+#### Como desenvolver habilidade de resiliência quando deixamos de acreditar no sucesso de um projeto?
+
+- É preciso pensar se é mais importante ter o produto de acordo com a visão inicial ou é estar junto com as pessoas contribuindo e participar de toda a jornada até o resultado;
+
+#### O que fazer quando se começa a duvidar das pessoas e achar que está perdendo tempo no projeto?
+
+- Uma opção é a pessoa pode sair do projeto para não atrapalhar a equipe;
+– Dica do Raphael: "se a pessoa ressignifica, e mira na experiência em vez de apenas o sucesso do produto, pode ser que o resultado final seja melhor";
+
+#### Como conduzir um membro na recuperação da credibilidade quando ele cai em descrédito na equipe?
+
+- É importante focar na jornada, é normal errar. Não adianta procurar a perfeição;
+– Se alguém quiser algo de outra pessoa, ela primeiro deve procurar ajudá-la;
+– Um chat em vídeo pode ser uma opção para integração da equipe;
+
+#### Como conseguir foco e disciplina necessária para conseguir chegar ao fim de um projeto e publicar um jogo e como lidar com as frustrações que acontecem no decorrer do jogo?
+
+– É preciso seguir no caminho. A pessoa precisa saber que a frustração pode acontecer. Nem sempre tudo sai como planejado, algumas tarefas vão atrasar, o cronograma vai ser alterado, porém é preciso continuar trabalhando com a equipe para chegar até o final;
+– Dica do Raphael: para a pessoa manter a motivação e lidar com a frustração. "Se a expectativa é ser perfeito, dificilmente a pessoa ficará satisfeita. Para manter a motivação por um longo período de tempo é agir de acordo com o termo "Accountability", que é a pessoa tornar público sua meta e se responsabilizar por isso";
+- O ser humano tem um medo muito grande de passar vergonha. Se comprometer publicamente é uma forma de ter um estímulo maior para alcançar um determinado objetivo;
+
+#### Como conseguir confeccionar uma avaliação ou teste psicológico para filtrar candidatos a fim de prever problemas no futuro?
+
+- Dica do Raphael: "independentemente do que for perguntar na entrevista, é importante passar por essa conversa por vídeo";
+- Não se deve filtrar candidato. Alguns testes psicológicos são feitos mais para saber o perfil da pessoa, e não para saber se ela vai dar problema ou não. O mais importante é fazer uma entrevista em vídeo e conversar abertamente com o candidato;
+– Em vez de pensar que a pessoa irá ser um problema, é preciso entender o perfil dela. Dica: fazer um eneagrama, o qual determina os 9 tipos de perfis de pessoas;
+
+#### Como lidar com o efeito dominó, quando um membro desiste e os demais vão desistindo do projeto?
+
+- É preciso analisar se a pessoa ainda acredita no projeto, alinhar as expectativas e objetivos definidos;
+– O principal é corrigir o problema raiz para essas pessoas estarem abandonando a equipe;
+
+#### É necessário que toda equipe tenha um líder e como determinar quem vai ser um líder e sobre como lidar quando o líder pensa de forma diferente da equipe?
+
+- Quando se está num projeto colaborativo é importante ter um papel de líder e não de chefe, para ele mostrar os caminhos e facilitar o trabalho de todo mundo;
+- Quando o líder não é apoiado pela maioria, ele precisa entender que é integrador. Se ele não tem argumentos e a maioria não apoiou uma ideia, ele precisa ceder;
+
+#### Como fazer com que os membros tenham mente aberta em relação a dizer que não conseguem desenvolver a tarefa deles por motivos diversos?
+
+- O interessante é não ter tarefas que se estendam até o final do cronograma. É importante quebrar a atividade em partes menores com checkpoints mais rápidos;
+
+#### Qual a melhor forma de cobrar o membro da equipe sobre uma tarefa?
+
+- Duas palavras que não devem ser usadas nesse caso são cobrança e chefe. Quem é lider pergunta como a pessoa está com as tarefas dela e se posiciona para ajudar todo mundo;
+
+### Indicação de livros de liderança:
+
+- Inteligência Emocional - Daniel Goleman;
+- Inteligência Social – Daniel Goleman;
