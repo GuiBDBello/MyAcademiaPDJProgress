@@ -4,6 +4,8 @@
 - [1.2 - O que é Game Design](#12---o-que-é-game-design)
 - [1.3 - Sua ideia não vale nada](#13---sua-ideia-não-vale-nada)
 
+- [2.1 - Público e Plataforma](#21---público-e-plataforma)
+
 ## 1.1 - Introdução:
 
 - Felipe Dal Molin (Luderia Jogos Digitais);
@@ -76,3 +78,19 @@
 ### Desafio: Liste uma ideia sua que alguém fez antes!
 
 - Não lembrei de nada agora, se eu lembrar edito :)
+
+## 2.1 - Público e Plataforma:
+
+- Cada plataforma e cada público possui uma orientação diferente na hora de pensar no *Design* do seu jogo;
+- O criador de Flappy Bird pensou em desenvolver um jogo em que só precisasse de uma mão para jogar. Por isso, escolheu a plataforma *Mobile* para seu jogo, e essa escolha atingiu diversos públicos diferentes, desde crianças até idosos;
+- É importante não ter preconceito com outras plataformas, como, por exemplo, *Mobile* ser para jogadores mais casuais. O preconceito impossibilita diversas oportunidades;
+- O preconceito também não deve ocorrer com público. *Minecraft* é um jogo mais infantil, com crianças como público-alvo, e é um dos mais vendidos da história;
+- Realidade Virtual é uma plataforma que pode trazer um novo público aos vídeo-games, assim como o Wii foi um sucesso com idosos e famílias por ser fácil de aprender;
+
+### 5 pilares do design casual:
+
+- Ficção agradável: visual mais casual, sem *gore* pesado;
+- Acessibilidade: não depender de uma experiência prévia, rápido para entrar no jogo;
+- Interruptibilidade: deve deixar o jogador jogar por 1 minuto e parar, e voltar do ponto onde parou;
+- Leniência: não pune o jogador com muita severidade;
+- Reforço positivo: feedback agradável pelas ações do jogador, recompensar o jogador com sons e visuais;
