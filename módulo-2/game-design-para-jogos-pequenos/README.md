@@ -9,6 +9,7 @@
 - [2.3 - Prototipar e Testar](#23---prototipar-e-testar)
 
 - [3.1 - Criatividade e repertório](#31---criatividade-e-repertório)
+- [3.2 - Geração de alternativas](#32---geração-de-alternativas)
 
 ## 1.1 - Introdução:
 
@@ -179,3 +180,17 @@
 - Todos os jogos, filmes, séries, músicas, livros, artigos, etc. que você já experienciou fazem parte de seu repertório;
 - Combinando seu repertório você pode criar experiências únicas;
 - Serendipismo: A sorte favorece a mente bem preparada;
+
+## 3.2 - Geração de alternativas:
+
+- Não desenvolva sua primeira ideia. Teste, analise as alternativas;
+- Pode parecer perda de tempo, mas a geração de alternativas melhora o produto final;
+
+### Ideias x Decisões:
+
+- Proporção de 10:1;
+- As decisões sobre o que é removido são tão importantes quanto as decisões do que estará no jogo;
+
+### Desafio para a vida!
+
+- Gere alternativas!
