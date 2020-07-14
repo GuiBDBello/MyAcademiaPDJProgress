@@ -6,6 +6,7 @@
 
 - [2.1 - Público e Plataforma](#21---público-e-plataforma)
 - [2.2 - KISS: Keep It Simple, Stupid](#22---kiss:keep-it-simple,-stupid)
+- [2.3 - Prototipar e Testar](#23---prototipar-e-testar)
 
 ## 1.1 - Introdução:
 
@@ -149,3 +150,22 @@
 1. Beat'em up
 2. Mágica/poderes
 3. Vários personagens com características e habilidades diferentes
+
+## 2.3 - Prototipar e Testar:
+
+- Nenhuma ideia será implementada exatamente como ela foi concebida. A ideia deve ser testada diversas vezes, e ajustada até ser viável para se tornar um jogo;
+- Um protótipo é uma ideia colocada em prática para testar se ela é viável;
+
+### Prototipar:
+
+- Use a arte mais simples possível (recomendado utilizar formas geométricas);
+- Se o protótipo não funciona, descarte o quanto antes e siga para o próximo;
+
+### Testar:
+
+- O jogador não é você (sua experiência não é a base para o que é um jogo bom), o jogador não é seu oponente (crie uma experiência boa para o jogador, não para derrotá-lo);
+- Playtest é muito importante para entender se suas ideias funcionam com o público;
+
+### Desafio: Prototipe alguma coisa!
+
+- [Guia para iniciantes (Construct 3)](./2.3-prototipar-e-testar/)
