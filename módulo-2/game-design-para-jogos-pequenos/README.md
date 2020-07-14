@@ -10,6 +10,7 @@
 
 - [3.1 - Criatividade e repertório](#31---criatividade-e-repertório)
 - [3.2 - Geração de alternativas](#32---geração-de-alternativas)
+- [3.3 - Visão de Design](#33---visão-de-design)
 
 ## 1.1 - Introdução:
 
@@ -194,3 +195,14 @@
 ### Desafio para a vida!
 
 - Gere alternativas!
+
+## 3.3 - Visão de Design:
+
+- Em uma equipe, haverão pontos de vista diferentes sobre o que é o jogo;
+- É importante que exista uma noção unificada do que é o jogo. O ideal é ter um documento que define isso. Esse documento deve levar em consideração as ideias da equipe também, para motivá-la e não ficar monótono, que apenas uma pessoa decida à partir de seus gostos;
+
+### Concisão:
+
+- O importante não é o que você coloca, mas o que você deixa de fora;
+- É necessário escolher as melhores ideias e filtrar as que não se encaixam;
+- Essa concisão deve estar na mão de uma pessoa ou uma equipe, mas não de todo mundo;
