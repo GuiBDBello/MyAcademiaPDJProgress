@@ -1,7 +1,8 @@
 # Game Design para Jogos Pequenos
 
-- [1.1 - Introdução](#1.1---introdução)
-- [1.2 - O que é Game Design](#1.2---o-que-é-game-design)
+- [1.1 - Introdução](#11---introdução)
+- [1.2 - O que é Game Design](#12---o-que-é-game-design)
+- [1.3 - Sua ideia não vale nada](#13---sua-ideia-não-vale-nada)
 
 ## 1.1 - Introdução:
 
@@ -65,3 +66,13 @@
 
 - Pontos fortes: repertório de décadas, programação e experiência em desenvolvimento;
 - Pontos fracos: empático, superproteção e ambição, pela teimosia de não desistir de uma ideia;
+
+## 1.3 - Sua ideia não vale nada:
+
+- Ideias são baratas. Qualquer membro de uma equipe terá ideias próprias, mas não há tempo para fazer todas as ideias;
+- Não é uma ideia que te deixará rico, o trabalho e esforço farão isso;
+- Uma ideia pode ter infinitos resultados diferentes. O resultado do trabalho em cima de uma ideia é o que trará a recompensa;
+
+### Desafio: Liste uma ideia sua que alguém fez antes!
+
+- Não lembrei de nada agora, se eu lembrar edito :)
