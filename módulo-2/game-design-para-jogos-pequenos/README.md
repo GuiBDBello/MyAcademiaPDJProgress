@@ -5,8 +5,10 @@
 - [1.3 - Sua ideia não vale nada](#13---sua-ideia-não-vale-nada)
 
 - [2.1 - Público e Plataforma](#21---público-e-plataforma)
-- [2.2 - KISS: Keep It Simple, Stupid](#22---kiss:keep-it-simple,-stupid)
+- [2.2 - KISS: Keep It Simple, Stupid](#22---kiss-keep-it-simple-stupid)
 - [2.3 - Prototipar e Testar](#23---prototipar-e-testar)
+
+- [3.1 - Criatividade e repertório](#31---criatividade-e-repertório)
 
 ## 1.1 - Introdução:
 
@@ -169,3 +171,11 @@
 ### Desafio: Prototipe alguma coisa!
 
 - [Guia para iniciantes (Construct 3)](./2.3-prototipar-e-testar/)
+
+## 3.1 - Criatividade e repertório:
+
+- Criatividade é uma habilidade como qualquer outra, você pode praticar, treinar e melhorar;
+- Está relacionada diretamente com repertório e referências;
+- Todos os jogos, filmes, séries, músicas, livros, artigos, etc. que você já experienciou fazem parte de seu repertório;
+- Combinando seu repertório você pode criar experiências únicas;
+- Serendipismo: A sorte favorece a mente bem preparada;
