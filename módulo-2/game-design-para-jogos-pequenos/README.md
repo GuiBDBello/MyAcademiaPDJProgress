@@ -206,3 +206,31 @@
 - O importante não é o que você coloca, mas o que você deixa de fora;
 - É necessário escolher as melhores ideias e filtrar as que não se encaixam;
 - Essa concisão deve estar na mão de uma pessoa ou uma equipe, mas não de todo mundo;
+
+## 3.4 - Um processo: escrever game design:
+
+### Com caderno, escrevendo à mão:
+
+- [Exemplos](./)
+- *Game Design* é um processo mental. É sobre resolver problemas. Você identifica o que quer fazer e precisa achar as formas de fazer aquilo;
+- Fazer o *Game Design* à mão, em um caderno, se torna um processo mais detalhado. Por ser mais penoso, mais demorado, isso possibilida visualizar mais alternativas;
+
+### O processo:
+
+01. Tenha uma visão geral de tudo o que precisa ser definido (gameplay, metajogo, mercado);
+02. Descreva o que você quer resolver a cada ponto (experiência de jogo, problema a ser resolvido);
+03. Defina que experiências você quer que o jogador tenha;
+04. Tenha sempre em mente a experiência completa (crie uma mecânica tendo em mente os desafios que o jogador enfrentará);
+05. Busque referências (quais jogos já fazem isso? como fazer melhor?);
+06. Gere alternativas;
+07. Desenhe (rascunhos, nada muito elaborado, mas precisa comunicar a ideia);
+08. Tome decisões hipotéticas (e se fosse diferente?);
+09. Questione suas decisões (conflitos com outras decisões);
+10. Anote os novos problemas;
+11. Crie novas alternativas;
+12. Questione-as;
+13. Enuncie as possibilidades sobreviventes;
+14. Mostre, discuta, revise, prototipe, teste, refaça, refine, teste, etc.
+- **Obs.:** Até o passo 13 você pode fazer sozinho. O passo 14 é uma etapa colaborativa;
+
+### Desafio: Escreva o game design de uma ideia sua, completinho, à mão:
