@@ -2,6 +2,10 @@
 
 - [Prototipagem e Pré-Produção](#prototipagem-e-pré-produção)
 
+## Biblioteca:
+
+- [Game Design para Jogos Pequenos](./game-design-para-jogos-pequenos)
+
 ## Prototipagem e Pré-Produção:
 
 - Gerar ideias para seu jogo;
