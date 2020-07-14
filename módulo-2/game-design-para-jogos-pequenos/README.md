@@ -5,6 +5,7 @@
 - [1.3 - Sua ideia não vale nada](#13---sua-ideia-não-vale-nada)
 
 - [2.1 - Público e Plataforma](#21---público-e-plataforma)
+- [2.2 - KISS: Keep It Simple, Stupid](#22---kiss:keep-it-simple,-stupid)
 
 ## 1.1 - Introdução:
 
@@ -94,3 +95,57 @@
 - Interruptibilidade: deve deixar o jogador jogar por 1 minuto e parar, e voltar do ponto onde parou;
 - Leniência: não pune o jogador com muita severidade;
 - Reforço positivo: feedback agradável pelas ações do jogador, recompensar o jogador com sons e visuais;
+
+## 2.2 - KISS: Keep It Simple, Stupid:
+
+- "Cuidado com o escopo, irmão";
+- Faça jogos simples, com escopo pequeno, mas bem feitos, e não jogos imensos mal-feitos e inacabados;
+- "Você vai fazer 10 jogos ruins antes de 1 bom";
+- "Simplicidade, o inferno do game designer" - Peter Molyneux;
+
+### Estudos de casos:
+
+#### VVVVVV (Terry Cavanagh):
+
+- Jogo muito bem feito, detalhado, level design genial;
+- Grande para um jogo *indie* (4-6h para finalizar);
+- Extremamente simples visualmente;
+- Desenvolvido por 1 pessoa;
+- Sucesso de crítica e comercial;
+
+#### Godus (Peter Molyneux):
+
+- Prometeu muitas coisas (um planeta do tamanho de Júpiter; 50 milhões de jogadores simultâneos; todo mundo no mesmo planeta; controle a vida dos colonos; controle o poder dos deuses; multiplayer com vários deuses; PC, MAC, Linux, iOS, Android; imensamente profundo; casual e hardcore);
+- Após anos de desenvolvimento, não possuia nem uma fração do jogo finalizada;
+- "A coisa mais assustadora para um designer não são coisas complexas, não é uma aventura com uma história com um final interessante. A coisa assustadora é simplicidade. Isso é o terror. É nosso abismo. É o lugar onde não queremos ir, quando temos que desenhar a coisa mais simples e pura e fazer isso ser extremamente agradável. Isso é um erro que eu sempre cometi, tentar focar em mais de uma coisa ao mesmo tempo.";
+
+### Desafio: Pensei num jogo que tem...
+
+- Imagine o jogo dos seus sonhos e liste 20 características deste jogo:
+01. Side-scroller
+02. Beat'em up
+03. Roguelike
+04. Mágica/poderes
+05. Armas brancas
+06. Destruição de cenário
+07. Ragdolls
+08. Combate corpo-a-corpo
+09. Vários personagens com características e habilidades diferentes
+10. Vários níveis
+11. Power-ups
+12. Chefões
+13. Vários tipos de inimigos
+14. Transformações/fusões
+15. História
+16. Movimentação nas paredes (parkour)
+17. Utilizar o ambiente/cenário para atacar
+18. Sistema de energia/mana
+19. Mecânica de defesa/quebra de defesa
+20. Mecânica de esquiva/rolar
+
+#### MVP (Minimum Viable Product ou Produto Minimamente Viável):
+
+- Agora selecione as 3 características principais, que formam a identidade do jogo:
+1. Beat'em up
+2. Mágica/poderes
+3. Vários personagens com características e habilidades diferentes
