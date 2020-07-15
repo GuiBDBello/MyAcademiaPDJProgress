@@ -14,6 +14,7 @@
 - [3.4 - Um processo: escrever game design](#34---um-processo-escrever-game-design)
 
 - [4.1 - Abstração](#41---abstração)
+- [4.2 - Mecânicas, dinâmicas e experiências](#42---mecânicas-dinâmicas-e-experiências)
 
 ## 1.1 - Introdução:
 
@@ -253,3 +254,54 @@
 ### Desafio: Desenhe um Flappy Bird que não seja um Flappy Bird!
 
 ![Desafio](./4.1-abstração/game-design-desafio.jpeg)
+
+## 4.2 - Mecânicas, dinâmicas e experiências:
+
+- *MDA (Mechanics, Dynamics, Aesthetics)*;
+- Você usa mecânicas para criar dinâmicas que formam experiências;
+
+### Um jogo tem jogos que têm jogos:
+
+- Uma experiência de jogo pode ser composta de várias dinâmicas, e cada dinâmica vai ter mecânicas diferentes;
+- A combinação de mecânicas formam "microjogos" dentro do jogo;
+
+#### Mecânicas:
+
+- São átomos. É o que tem de menor no jogo;
+- É muito importante acertar nas mecânicas. Você passará a maior parte do tempo tentando fazer isso funcionar de forma clara para o jogador;
+- **Ex.:**
+1. Apertar um botão para pular;
+2. Comprar um item por 10 moedas;
+3. Ganhar XP para subir de nível;
+
+#### Dinâmicas:
+
+- A ação que ocorre;
+
+#### Experiências:
+
+- Desafio, adrenalina, sensação (gráficos, sons), competição;
+- Cada experiência terá dinâmicas e mecânicas que a suportam;
+
+### "8 game aesthetics":
+
+- Sensação: luzes, gráficos;
+- Fantasia: se tornar um personagem que você não é;
+- Narrativa: história e desenvolvimento dos personagens;
+- Desafio: querer vencer um nível que exige sua habilidade;
+- Socialização: conviver com outros jogadores;
+- Descoberta: encontrar o que o jogo têm para te mostrar. Lugares, mecânicas, personagens;
+- Expressão: colocar sua própria identidade no jogo;
+- Submissão: se entregar para o jogo. Deixar que o jogo defina sua experiência;
+
+#### Outras experiências:
+
+- Imersão tática: instantânea. Decidir um movimento certo como reação para um problema imediata;
+- Imersão estratégica: tomar as decisões certas para um evento futuro;
+- Imersão narrativa: design de mundo, papel do personagem na história, visual;
+
+### Desafio: Escolha 5 jogos bons. Quais são as 3 principais experiências de jogo de cada um?
+
+- The Last of Us: Narrativa, Submissão e Descoberta;
+- Red Dead Redemption 2: Descoberta, Fantasia e Sensação;
+- God of War: Fantasia, Desafio e Descoberta;
