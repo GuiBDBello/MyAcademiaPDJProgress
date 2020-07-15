@@ -305,3 +305,15 @@
 - The Last of Us: Narrativa, Submissão e Descoberta;
 - Red Dead Redemption 2: Descoberta, Fantasia e Sensação;
 - God of War: Fantasia, Desafio e Descoberta;
+
+## 4.3 - Quais são seus verbos?
+
+### O que o jogador faz?
+
+![Verbos](./4.3-quais-são-seus-verbos/verbos.png)
+- Escolhas;
+
+### Desafio: Liste verbos de gameplay! Todos que puder lembrar
+
+- **Bônus:** jogo com verbos inusitados;
+mover andar correr pular pegar atacar matar reviver escalar conter embrulhar caçar fugir ameaçar sabotar copiar combinar separar quebrar destruir construir montar unir enforcar esgueirar fundir rasgar surpreender habilitar
