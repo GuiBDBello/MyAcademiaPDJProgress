@@ -11,6 +11,7 @@
 - [3.1 - Criatividade e repertório](#31---criatividade-e-repertório)
 - [3.2 - Geração de alternativas](#32---geração-de-alternativas)
 - [3.3 - Visão de Design](#33---visão-de-design)
+- [3.4 - Um processo: escrever game design](#34---um-processo-escrever-game-design)
 
 ## 1.1 - Introdução:
 
@@ -211,7 +212,7 @@
 
 ### Com caderno, escrevendo à mão:
 
-- [Exemplos](./)
+- [Exemplos](./3.4-um-processo-escrever-game-design/)
 - *Game Design* é um processo mental. É sobre resolver problemas. Você identifica o que quer fazer e precisa achar as formas de fazer aquilo;
 - Fazer o *Game Design* à mão, em um caderno, se torna um processo mais detalhado. Por ser mais penoso, mais demorado, isso possibilida visualizar mais alternativas;
 
@@ -234,3 +235,5 @@
 - **Obs.:** Até o passo 13 você pode fazer sozinho. O passo 14 é uma etapa colaborativa;
 
 ### Desafio: Escreva o game design de uma ideia sua, completinho, à mão:
+
+![Desafio](./3.4-um-processo-escrever-game-design/game-design-desafio.jpeg)
