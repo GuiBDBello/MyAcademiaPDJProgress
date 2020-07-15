@@ -13,6 +13,8 @@
 - [3.3 - Visão de Design](#33---visão-de-design)
 - [3.4 - Um processo: escrever game design](#34---um-processo-escrever-game-design)
 
+- [4.1 - Abstração](#41---abstração)
+
 ## 1.1 - Introdução:
 
 - Felipe Dal Molin (Luderia Jogos Digitais);
@@ -237,3 +239,17 @@
 ### Desafio: Escreva o game design de uma ideia sua, completinho, à mão:
 
 ![Desafio](./3.4-um-processo-escrever-game-design/game-design-desafio.jpeg)
+
+## 4.1 - Abstração:
+
+- Se é divertido com quadrados, é divertido;
+
+### Mecânica de eliminar todos os inimigos de uma área:
+
+- Zelda: até não eliminar todos os inimigos, a porta para o próximo nível estará fechada;
+- Uncharted: até não eliminar todos os inimigos, o NPC que te acompanha não fará a ação necessária para avançar até o próximo nível;
+- A abstração é a mesma, porém a dinâmica do jogo é completamente diferente;
+
+### Desafio: Desenhe um Flappy Bird que não seja um Flappy Bird!
+
+![Desafio](./4.1-abstração/game-design-desafio.jpeg)
