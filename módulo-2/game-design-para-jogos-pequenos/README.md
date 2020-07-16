@@ -19,6 +19,7 @@
 - [4.4 - Sistemas de tensão e risco recompensa (parte 1)](#44---sistemas-de-tensão-e-risco-recompensa-parte-1)
 - [4.4 - Sistemas de tensão e risco recompensa (parte 2)](#44---sistemas-de-tensão-e-risco-recompensa-parte-2)
 - [4.5 - Ortogonalidade](#45---ortogonalidade)
+- [4.6 - Counterplay](#46---counterplay)
 
 ## 1.1 - Introdução:
 
@@ -370,3 +371,16 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 ![Mecânicas ortogonais](./4.5-ortogonalidade/mecânicas-ortogonais.png)
 
 - A ideia da Ortogonalidade é: trabalhar com **menos exceções de design, mais resultados emergentes**;
+
+## 4.6 - Counterplay:
+
+### Para toda ação, uma chance de reação:
+
+- Que dinâmica de gameplay emerge de uma ação? (mecânicas ortogonais)
+- Quando um jogador faz uma ação, o que o outro jogador pode fazer para ter vantagem sobre essa ação?
+- Quando esse inimigo ataca, o que o jogador **faz**?
+
+### Yomi:
+
+- Tentar prever o que o oponente irá fazer;
+- Como em um jogo de xadrez, você deve planejar o seu próximo movimento com base na sua previsão do próximo movimento do oponente;
