@@ -15,9 +15,10 @@
 
 - [4.1 - Abstração](#41---abstração)
 - [4.2 - Mecânicas, dinâmicas e experiências](#42---mecânicas-dinâmicas-e-experiências)
-- [4.3 - Quais são seus verbos?](#43---quais-são-seus-verbos?)
-- [4.4 - Sistemas de tensão e risco recompensa (parte 1)](#44---sistemas-de-tensão-e-risco-recompensa-(parte-1))
-- [4.4 - Sistemas de tensão e risco recompensa (parte 2)](#44---sistemas-de-tensão-e-risco-recompensa-(parte-2))
+- [4.3 - Quais são seus verbos?](#43---quais-são-seus-verbos)
+- [4.4 - Sistemas de tensão e risco recompensa (parte 1)](#44---sistemas-de-tensão-e-risco-recompensa-parte-1)
+- [4.4 - Sistemas de tensão e risco recompensa (parte 2)](#44---sistemas-de-tensão-e-risco-recompensa-parte-2)
+- [4.5 - Ortogonalidade](#45---ortogonalidade)
 
 ## 1.1 - Introdução:
 
@@ -350,3 +351,22 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 - Futebol (com apenas um time): Fazer gols sem a bola tocar o chão. Adicionar obstáculos;
 - Space Invaders (se os aliens não se aproximassem): Fazer os inimigos atacar de volta. Criar ameaças do ambiente (chuva de meteoros);
 - Caça-níqueis (o que mudaria?): Cada tentativa aumenta uma pequena fração da chance de ganhar o prêmio;
+
+## 4.5 - Ortogonalidade:
+
+### Base simples, implicações complexas:
+
+- Fazem coisas diferentes mas se comunicam entre si;
+- *Minimum input, maximum output*: um item, combinado com os outros elementos do jogo, continua funcionando de maneiras distintas;
+
+#### Mecânicas ortogonais:
+
+- Movimento: Controlar espaço, Pegar item, Escapar de tiro (criado à partir do Tiro), Evitar míssil (criado à partir do Míssil), Perseguir (criado à partir do Choque, persegue o oponente para dar dano nele), Fugir de choque (criado à partir do Choque, foge para não receber dano do Choque);
+- Tiro: Dano mínimo (ataque quem menos dá dano individualmente), Dano máximo (se acertar todos os tiros, tem o maior dano por segundo), Destruir míssil (criado à partir do Míssil, uma bala destrói o míssil), Afastar (criado à partir do Choque, afasta o oponente para se proteger do Choque);
+- Míssil: Dano preciso (sempre a mesma quantidade de dano), Atrapalhar (faz o oponente mudar seu trajeto para desviar), Afastar (criado à partir do Choque, afasta o oponente para se proteger do Choque), Desorientar (criado à partir do Choque, o oponente muda sua trajetória caso o Míssil acerte seu carro);
+- Choque: Invencível 3s, Dano melee (encostar no oponente), Anti-tiro (), Anti-míssil ();
+- ...
+
+![Mecânicas ortogonais](./4.5-ortogonalidade/mecânicas-ortogonais.png)
+
+- A ideia da Ortogonalidade é: trabalhar com **menos exceções de design, mais resultados emergentes**;
