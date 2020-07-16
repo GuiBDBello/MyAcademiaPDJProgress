@@ -15,6 +15,9 @@
 
 - [4.1 - Abstração](#41---abstração)
 - [4.2 - Mecânicas, dinâmicas e experiências](#42---mecânicas-dinâmicas-e-experiências)
+- [4.3 - Quais são seus verbos?](#43---quais-são-seus-verbos?)
+- [4.4 - Sistemas de tensão e risco recompensa (parte 1)](#44---sistemas-de-tensão-e-risco-recompensa-(parte-1))
+- [4.4 - Sistemas de tensão e risco recompensa (parte 2)](#44---sistemas-de-tensão-e-risco-recompensa-(parte-2))
 
 ## 1.1 - Introdução:
 
@@ -317,3 +320,33 @@
 
 - **Bônus:** jogo com verbos inusitados;
 mover andar correr pular pegar atacar matar reviver escalar conter embrulhar caçar fugir ameaçar sabotar copiar combinar separar quebrar destruir construir montar unir enforcar esgueirar fundir rasgar surpreender habilitar
+
+## 4.4 - Sistemas de tensão e risco recompensa (parte 1):
+
+### Sistemas de tensão:
+
+- São desafios que aumentam a dificuldade do jogo para o jogador, e podem oferecer uma recompensa;
+
+#### Risco recompensa:
+
+- Caminho alternativo onde haverá um desafio maior, porém uma recompensa maior também;
+- O jogador cede sua segurança em troca de uma recompensa;
+- Isso cria interesse do jogador pelo jogo;
+- Ataque x Movimento: todo ataque que o jogador faz move o personagem;
+- Poder x Tempo: ataque primário é rápido, mas causa pouco dano, enquanto o ataque secundário é lento mas causa muito dano;
+- *Play safe* x *Power-up*: o *Power-up* nasce em um lugar arriscado, isso cria uma situação de risco ao jogador, e força-o a fazer uma escolha;
+- Combo x Segurança: o combo deve criar um risco, mas ser recompensador para que valha à pena o jogador fazê-lo. **Ex.:** acumular vários inimigos na tela (risco) e eliminá-los numa rápida sucessão para receber mais pontos (recompensa);
+
+## 4.4 - Sistemas de tensão e risco recompensa (parte 2):
+
+- Ranking online dá uma pressão para você ir melhor;
+- Os sistemas de tensão que tu escolhe para seu jogo define o tipo da experiência que o jogo vai ser;
+- 10 tentativas? 10 minutos? Tentativas e tempo infinito? 
+- O que o jogador precisa pagar para ter uma performance melhor no seu sistema?
+
+### Desafio: Subverta os sistemas de tensão de alguns jogos clássicos:
+
+- Pacman (sem os fantasmas): O caminho percorrido. O jogador inicia com uma quantidade X de pontos, e cada "bloco" percorrido ele perde Y pontos;
+- Futebol (com apenas um time): Fazer gols sem a bola tocar o chão. Adicionar obstáculos;
+- Space Invaders (se os aliens não se aproximassem): Fazer os inimigos atacar de volta. Criar ameaças do ambiente (chuva de meteoros);
+- Caça-níqueis (o que mudaria?): Cada tentativa aumenta uma pequena fração da chance de ganhar o prêmio;
