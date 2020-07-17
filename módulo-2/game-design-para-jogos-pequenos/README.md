@@ -21,6 +21,7 @@
 - [4.8 - Feedback Positivo](#48---feedback-positivo)
 - [4.9 - Metajogo](#49---metajogo)
 - [5.1 - O jogador criador: share culture e videogames](#51---o-jogador-criador-share-culture-e-videogames)
+- [5.2 - Uma pitada de mercado](#52---uma-pitada-de-mercado)
 
 ## 1.1 - Introdução:
 
@@ -455,3 +456,31 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 - As tendências surgem de novas tecnologias e plataformas;
 - A tendência natural pode ser a de não aceitar a mudança. É uma tendência que as pessoas de uma geração desprezam a cultura de outra;
 - *Share culture*: A cultura de ser possível compartilhar tudo de sua vida nas redes sociais. Essa cultura se torna cada vez mais popular graças à plataformas como o Playstation (com o *Share Button*), a Twitch e a Steam (com o *streaming* de jogos);
+
+## 5.2 - Uma pitada de mercado:
+
+### Mobile:
+
+- É simples e fácil para criar um jogo e publicar, portanto haverá muita concorrência;
+
+#### Outras plataformas:
+
+- Touch Arcade;
+
+### PC:
+
+- Uma nova tendência vêm surgindo há uns anos, chamada de *Early Access*;
+
+#### Early Access:
+
+- Jogo com acesso antecipado. Os jogadores podem comprá-lo para testá-lo e, quando o jogo lançar, o jogo já está em sua biblioteca;
+- Houveram diversos jogos cheios de problemas e com muito pouco conteúdo, o que gerou controvérsias sobre isso;
+
+#### Kickstarter:
+
+- Financiamento coletivo. Quem financia o jogo está fazendo uma aposta, e isso significa que o financiador acredita que o jogo fará sucesso futuramente;
+- Muitas vezes os projetos possuem "recompensas" separadas por faixas de preço (**Ex.:** se doar R$10,00 receberá o jogo e um chaveiro, se doar R$50,00 receberá o jogo, o chaveiro e uma camiseta...);
+
+#### Outras plataformas:
+
+- Itch.io, Kongregate, Desura, GameJolt;
