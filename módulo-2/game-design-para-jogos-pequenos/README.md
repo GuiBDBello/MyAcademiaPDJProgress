@@ -3,16 +3,13 @@
 - [1.1 - Introdução](#11---introdução)
 - [1.2 - O que é Game Design](#12---o-que-é-game-design)
 - [1.3 - Sua ideia não vale nada](#13---sua-ideia-não-vale-nada)
-
 - [2.1 - Público e Plataforma](#21---público-e-plataforma)
 - [2.2 - KISS: Keep It Simple, Stupid](#22---kiss-keep-it-simple-stupid)
 - [2.3 - Prototipar e Testar](#23---prototipar-e-testar)
-
 - [3.1 - Criatividade e repertório](#31---criatividade-e-repertório)
 - [3.2 - Geração de alternativas](#32---geração-de-alternativas)
 - [3.3 - Visão de Design](#33---visão-de-design)
 - [3.4 - Um processo: escrever game design](#34---um-processo-escrever-game-design)
-
 - [4.1 - Abstração](#41---abstração)
 - [4.2 - Mecânicas, dinâmicas e experiências](#42---mecânicas-dinâmicas-e-experiências)
 - [4.3 - Quais são seus verbos?](#43---quais-são-seus-verbos)
@@ -22,6 +19,7 @@
 - [4.6 - Counterplay](#46---counterplay)
 - [4.7 - Punição](#47---punição)
 - [4.8 - Feedback Positivo](#48---feedback-positivo)
+- [4.9 - Metajogo](#49---metajogo)
 
 ## 1.1 - Introdução:
 
@@ -437,3 +435,16 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 - Feedback positivo: A recompensa por fazer a coisa certa;
 - [Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 - **Vlambeer**: Nuclear Throne, Ridiculous Fishing, Radical Fishing, Super Crate Box;
+
+## 4.9 - Metajogo:
+
+- Deve prender o jogador e fazê-lo querer continuar jogando;
+- Defina o meta após ter a estrutura do jogo feita;
+- Assegure-se que o meta sustentará o jogo e fará o jogador querer voltar depois de um tempo sem jogar;
+
+### O que acontece entre uma partida e outra?
+
+- Melhorar skills;
+- Melhorar equipamentos;
+- Desbloquear novos itens/personagens;
+- Desbloquear/alterar itens cosméticos;
