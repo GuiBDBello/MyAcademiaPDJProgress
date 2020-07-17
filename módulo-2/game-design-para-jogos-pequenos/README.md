@@ -20,6 +20,7 @@
 - [4.7 - Punição](#47---punição)
 - [4.8 - Feedback Positivo](#48---feedback-positivo)
 - [4.9 - Metajogo](#49---metajogo)
+- [5.1 - O jogador criador: share culture e videogames](#51---o-jogador-criador-share-culture-e-videogames)
 
 ## 1.1 - Introdução:
 
@@ -448,3 +449,9 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 - Melhorar equipamentos;
 - Desbloquear novos itens/personagens;
 - Desbloquear/alterar itens cosméticos;
+
+## 5.1 - O jogador criador: share culture e videogames:
+
+- As tendências surgem de novas tecnologias e plataformas;
+- A tendência natural pode ser a de não aceitar a mudança. É uma tendência que as pessoas de uma geração desprezam a cultura de outra;
+- *Share culture*: A cultura de ser possível compartilhar tudo de sua vida nas redes sociais. Essa cultura se torna cada vez mais popular graças à plataformas como o Playstation (com o *Share Button*), a Twitch e a Steam (com o *streaming* de jogos);
