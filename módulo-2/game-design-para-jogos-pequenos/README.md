@@ -21,6 +21,7 @@
 - [4.5 - Ortogonalidade](#45---ortogonalidade)
 - [4.6 - Counterplay](#46---counterplay)
 - [4.7 - Punição](#47---punição)
+- [4.8 - Feedback Positivo](#48---feedback-positivo)
 
 ## 1.1 - Introdução:
 
@@ -428,3 +429,11 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 ### Desafio: Pense em um sistema de punição diferente de qualquer outro!
 
 - Ao morrer, precisa batalhar com almas de inimigos que também morreram para voltar ao mundo dos vivos. Cada vez que morrer, a dificuldade da batalha aumenta;
+
+## 4.8 - Feedback Positivo:
+
+### A arte de sacudir a tela:
+
+- Feedback positivo: A recompensa por fazer a coisa certa;
+- [Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)
+- **Vlambeer**: Nuclear Throne, Ridiculous Fishing, Radical Fishing, Super Crate Box;
