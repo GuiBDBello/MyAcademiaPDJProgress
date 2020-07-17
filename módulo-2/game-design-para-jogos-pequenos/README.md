@@ -20,6 +20,7 @@
 - [4.4 - Sistemas de tensão e risco recompensa (parte 2)](#44---sistemas-de-tensão-e-risco-recompensa-parte-2)
 - [4.5 - Ortogonalidade](#45---ortogonalidade)
 - [4.6 - Counterplay](#46---counterplay)
+- [4.7 - Punição](#47---punição)
 
 ## 1.1 - Introdução:
 
@@ -384,3 +385,46 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 
 - Tentar prever o que o oponente irá fazer;
 - Como em um jogo de xadrez, você deve planejar o seu próximo movimento com base na sua previsão do próximo movimento do oponente;
+
+## 4.7 - Punição:
+
+- O papel da punição mudou muito ao longo da história dos jogos;
+- Antigamente, com máquinas de *Arcade*, a punição era fazer o jogador perder para gastar mais fichas;
+
+### Ghouls'n Ghosts:
+
+- Personagem podia sofrer dois ataques, o primeiro tirava a armadura e o segundo o matava;
+- O jogo tem um número finito de vidas;
+- Após terminar as vidas, o jogo começava do início;
+- Extremamente punitivo;
+
+### Super Meat Boy:
+
+- Personagem morre com qualquer deslize, e morre frequentemente;
+- O jogo não tem limite de vidas;
+- Após morrer, inicia o nível no início;
+- Cada nível leva apenas alguns segundos para finalizar;
+- Punição moderna: mesmo o jogo sendo difícil, a punição é a mínima possível;
+
+### Prince of Persia (2008):
+
+- Personagem nunca morre, a companheira do personagem principal o salva;
+- Isso permite o jogador a errar infinitamente;
+- Tentativa de punição que não funcionou;
+
+### Dark Souls:
+
+- Narrativa punitiva;
+- Você vai morrer várias vezes, aprender e superar os desafios;
+- Não têm limite de vidas, mas pune o jogador fazendo-o "*dropar*" todas suas "almas" (que funcionam como o "dinheiro" do jogo) no local onde morreu;
+
+### Shovel Knight:
+
+- Jogo muito ágil, dificuldade depende da habilidade do jogador;
+- Têm checkpoints, mas cada ponto pode ser ativo apenas uma vez;
+- Ao morrer, parte do seu dinheiro cai onde você morreu;
+- Pune o jogador de forma inteligente, deixando claro ao jogador o que ele perderá caso morrer;
+
+### Desafio: Pense em um sistema de punição diferente de qualquer outro!
+
+- Ao morrer, precisa batalhar com almas de inimigos que também morreram para voltar ao mundo dos vivos. Cada vez que morrer, a dificuldade da batalha aumenta;
