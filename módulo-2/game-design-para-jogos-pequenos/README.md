@@ -22,6 +22,7 @@
 - [4.9 - Metajogo](#49---metajogo)
 - [5.1 - O jogador criador: share culture e videogames](#51---o-jogador-criador-share-culture-e-videogames)
 - [5.2 - Uma pitada de mercado](#52---uma-pitada-de-mercado)
+- [5.3 - Conclusão do curso](#53---conclusão-do-curso)
 
 ## 1.1 - Introdução:
 
@@ -484,3 +485,18 @@ mover andar correr pular pegar atacar matar reviver escalar conter embrulhar ca�
 #### Outras plataformas:
 
 - Itch.io, Kongregate, Desura, GameJolt;
+
+## 5.3 - Conclusão do curso:
+
+### Resumo:
+
+- O que é game design: Não é **ter** ideias, é viabilizá-las;
+- Sua ideia não vale nada: Ideias sozinhas não valem nada, é necessário trabalhar;
+- Keep it simple, stupid: Mantenha o escopo do projeto contido e suas expectativas baixas;
+- Geração de alternativas: Faça 10 para utilizar 1;
+- Escrever game design: (Uma forma é) Com caderno, à mão;
+- Mecânicas, dinâmicas, experiências: "Faça um jogo dentro do jogo dentro do jogo". Foco nas mecânicas, são a base do jogo;
+- Abstração e sistemas de tensão: Formas de criar e manter engajamento;
+- Ortogonalidade e counterplay: Mecânicas que podem ser combinadas e a reação do jogador à uma ação do jogo/oponente;
+- O metajogo: Sistemas dentro do jogo para instigar o jogador a querer jogar mais;
+- O jogador-criador: Nova tendência, joga enquanto entretém seu público;
