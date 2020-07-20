@@ -4,7 +4,7 @@
 
 ## 1 - Introdução:
 
-- André Alves;
+- André Alves (Little Leds);
 
 ### Projetos Voluntários:
 
@@ -16,3 +16,61 @@
 - Como utilizá-las;
 - Como trabalhar com outras pessoas;
 - Como se organizar;
+
+## 2 - Game Design Document (GDD):
+
+- É o "mapa" do projeto. Serve para organizar e alinhar o planejamento de todos os participantes;
+- Também serve para uma possível captação de investidores e inscrição do projeto em programas de fomento;
+- O *GDD* possui "seções" que representam cada uma das etapas do jogo;
+- O *GDD* também deve ser atualizado conforme o projeto for andando;
+- É recomendado que o *GDD* seja descrito em **inglês**;
+- Geralmente, o gestor do projeto (produtor do jogo) é quem elabora o *GDD*;
+
+### Seções:
+
+#### High Concept/Pitch:
+
+- Frase curta que representa o conceito do jogo;
+- **Ex.:** Sky High Chickens: "Jogo de empilhar galinhas";
+
+#### Gameplay e enredo:
+
+- Texto mais complexo de 4-5 parágrafos explicando a história ou o enredo do jogo;
+- **Obs.:** História != Enredo: a história é a elaboração de textos mais complexos, com diálogos, e o enredo é a abstração do que seria a história do jogo;
+
+#### Fluxo do Jogo:
+
+- Fluxograma que explica detalhadamente como o usuário utilizará as interfaces. São as interações do jogador com o jogo;
+
+#### Level Design:
+
+- Explicação completa (por meio de imagens, *concept arts*, etc.) de como será a jogabilidade ao usuário;
+- O *Level Design* deve complementar o Fluxo do Jogo;
+
+#### Interface do usuário, arte e áudio:
+
+- Conceitos, rascunhos, exemplos sobre como será a arte e música do jogo;
+- Deve conter referências para os artistas saber onde começar;
+- Assim que os artistas forem criando esses *assets*, eles devem colocá-los no *GDD* para que sejam a referência a partir daquele ponto;
+- O *GDD* deve sempre estar o mais atualizado possível;
+
+#### Metodologia e Cronograma:
+
+- A metodologia é, possivelmente, a parte mais importante do *GDD*, e deve ser seguida o mais fielmente possível;
+- Se não tiver um cronograma definido, o jogo não sairá nunca;
+- Se os desenvolvedores não têm um retorno sobre o trabalho deles, eles irão se desanimar, e o jogo não irá sair;
+- Com um cronograma definido, você pode cobrar as outras pessoas (e elas também podem lhe cobrar) e todos sabem como o projeto está andando;
+
+#### Funcionalidades e Protótipos:
+
+- Aliado ao Fluxo de Jogo, *Level Design* e junto ao Cronograma, explica o quê será entregue, e em quanto tempo;
+- Define quando um protótipo estará pronto, e quando o jogo (praticamente) finalizado estará pronto;
+
+#### Equipe Técnica:
+
+- Define quem e o quê será feito no jogo;
+- Caso haja uma possibilidade de fomento, a pessoa que irá ler seu *GDD* sabe exatamente o que cada desenvolvedor faz e para sua equipe entrar em contato com outro, caso precise;
+
+#### Dependências, Ferramentas e Softwares:
+
+- Descreva o que cada profissional irá utilizar (**Ex:** *Unity*, *Photoshop*, *Illustrator*, *Sound Forge*), como irá usar e aonde irá usar (*Home Office*);
