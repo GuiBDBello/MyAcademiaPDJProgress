@@ -19,7 +19,7 @@
 
 ## 2 - Game Design Document (GDD):
 
-- É o "mapa" do projeto. Serve para organizar e alinhar o planejamento de todos os participantes;
+- É o "mapa" do projeto. Serve para organizar e alinhar o planejamento de todos os integrantes;
 - Também serve para uma possível captação de investidores e inscrição do projeto em programas de fomento;
 - O *GDD* possui "seções" que representam cada uma das etapas do jogo;
 - O *GDD* também deve ser atualizado conforme o projeto for andando;
@@ -50,7 +50,7 @@
 #### Interface do usuário, arte e áudio:
 
 - Conceitos, rascunhos, exemplos sobre como será a arte e música do jogo;
-- Deve conter referências para os artistas saber onde começar;
+- Deve conter referências para os artistas saberem onde começar;
 - Assim que os artistas forem criando esses *assets*, eles devem colocá-los no *GDD* para que sejam a referência a partir daquele ponto;
 - O *GDD* deve sempre estar o mais atualizado possível;
 
@@ -58,8 +58,8 @@
 
 - A metodologia é, possivelmente, a parte mais importante do *GDD*, e deve ser seguida o mais fielmente possível;
 - Se não tiver um cronograma definido, o jogo não sairá nunca;
-- Se os desenvolvedores não têm um retorno sobre o trabalho deles, eles irão se desanimar, e o jogo não irá sair;
-- Com um cronograma definido, você pode cobrar as outras pessoas (e elas também podem lhe cobrar) e todos sabem como o projeto está andando;
+- Se a equipe não têm um retorno sobre o trabalho deles, eles irão se desanimar, e o jogo não irá sair;
+- Com um cronograma definido, você pode cobrar os outros integrantes (e eles também podem lhe cobrar) e todos sabem como está o andamento do projeto;
 
 #### Funcionalidades e Protótipos:
 
@@ -68,9 +68,22 @@
 
 #### Equipe Técnica:
 
-- Define quem e o quê será feito no jogo;
-- Caso haja uma possibilidade de fomento, a pessoa que irá ler seu *GDD* sabe exatamente o que cada desenvolvedor faz e para sua equipe entrar em contato com outro, caso precise;
+- Define quem fará e o quê será feito no jogo;
+- Caso haja uma possibilidade de fomento, a pessoa que irá ler seu *GDD* sabe exatamente o que cada membro faz e também serve para a própria equipe entrar em contato com outro integrante, caso precise;
 
 #### Dependências, Ferramentas e Softwares:
 
 - Descreva o que cada profissional irá utilizar (**Ex:** *Unity*, *Photoshop*, *Illustrator*, *Sound Forge*), como irá usar e aonde irá usar (*Home Office*);
+
+## 3 - Organização:
+
+- É importantíssimo que tudo seja planejado e organizado;
+
+### Pré-projeto:
+
+- Como estabelecer o jogo e organizar o projeto para o futuro;
+- O *GDD* é a primeira fase do pré-projeto. Nele há o cronograma, que deve ser seguido à risca. Esse cronograma será útil para ter ideia de como o jogo irá decorrer, durante o tempo de desenvolvimento;
+- Conheça sua equipe. Conheça os trabalhos já feitos pelos outros integrantes, analise seus portfólios para saber a capacidade de cada um;
+- Após conhecer os integrantes, faça seu cronograma e distribua as tarefas de acordo ao perfil de cada integrante (sabendo quais demoram mais, quais são mais rápidos, etc.) da melhor forma para que ninguém fique sem trabalho;
+- Asana: ferramenta de distribuição de tarefas;
+- É importante que todos estejam cientes do que os outros integrantes estão fazendo (e do cronograma) para manter a **equalização** da ideia;
