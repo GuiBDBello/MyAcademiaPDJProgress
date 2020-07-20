@@ -5,6 +5,7 @@
 ## Biblioteca:
 
 - [Game Design para Jogos Pequenos](./game-design-para-jogos-pequenos)
+- [Criando um Jogo de Forma Colaborativa](./criando-um-jogo-de-forma-colaborativa)
 
 ## Prototipagem e Pré-Produção:
 
