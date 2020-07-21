@@ -5,6 +5,7 @@
 - [3 - Organização](#3---organização)
 - [4 - Ferramentas](#4---ferramentas)
 - [5 - Fluxo de trabalho](#5---fluxo-de-trabalho)
+- [6 - Contrato](#6---contrato)
 
 ## 1 - Introdução:
 
@@ -149,3 +150,19 @@
 7. Faça a unificação dos arquivos (Google Drive, Bitbucket, Dropbox);
 8. Atualize constantemente os arquivos do jogo e o *GDD*;
 9. Faça relatórios semanais do seu trabalho para que todos possam consultar o trabalho feito por cada membro da equipe;
+
+## 6 - Contrato:
+
+- Após ser feito todo o planejamento do projeto, deve ser feito um **contrato**;
+- O contrato é a **garantia** que todos receberão o que foi acordado;
+
+### Dicas:
+
+- Especifique métodos de pagamento;
+- Especifique o foro (aonde as pendências jurídicas serão tratadas) o mais próximo ao gestor do projeto;
+- Pegue um modelo de contrato pronto, verifique as causas e pegue um auxílio jurídico (pode ser até um estudante de Direito) para auxiliar a escrever um contrato bem feito;
+- Além de ter o contrato "padrão", adapte o contrato para cada uma das áreas (artista, programador, etc.). Defina no contrato o que cada um irá fazer;
+- Utilize o *HelloSign* para assinar o contrato;
+- **Não comece a trabalhar sem que todos tenham o contrato assinado**;
+- Tente fazer um contrato amparado pela lei brasileira;
+- Tenha os contratos com você, em PDF;
