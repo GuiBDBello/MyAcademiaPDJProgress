@@ -6,6 +6,7 @@
 - [4 - Ferramentas](#4---ferramentas)
 - [5 - Fluxo de trabalho](#5---fluxo-de-trabalho)
 - [6 - Contrato](#6---contrato)
+- [7 - Home office](#7---home-office)
 
 ## 1 - Introdução:
 
@@ -166,3 +167,11 @@
 - **Não comece a trabalhar sem que todos tenham o contrato assinado**;
 - Tente fazer um contrato amparado pela lei brasileira;
 - Tenha os contratos com você, em PDF;
+
+## 7 - Home office:
+
+- Facilita trabalhar com qualquer pessoa em qualquer lugar do mundo;
+- Para quem não quer investir dinheiro logo no começo do projeto, o *home office* não requer nenhum investimento além dos equipamentos pessoais que cada membro já possui;
+- É importante também ter os equipamentos necessários para testar;
+- Se o jogo será feito para consoles, tenha os *devkits* do *Playstation* e do *Xbox*. Se o jogo for feito para Android, teste em vários dispositivos, desde *High-end* ao *Low-end*. Se for para iOS, tenha ao menos um Mac (para exportar o jogo) e um dispositivo da Apple (*iPhone*, *iPad*). Se você for um artista, tenha uma mesa digitalizadora para criar as texturas/modelos. Se for trabalhar com som, tenha um microfone e os equipamentos necessários para gravar;
+- Outra opção é conseguir uma parceria com uma empresa que fornece os equipamentos e *devkits* para sua equipe. Para conseguir isso, exponha seus trabalhos para que as empresas entrem em contato com sua equipe;
