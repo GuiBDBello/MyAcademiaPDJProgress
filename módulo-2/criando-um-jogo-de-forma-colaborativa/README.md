@@ -1,6 +1,9 @@
 # Criando um Jogo de Forma Colaborativa
 
 - [1 - Introdução](#1---introdução)
+- [2 - Game Design Document (GDD)](#3---game-design-document-gdd)
+- [3 - Organização](#3---organização)
+- [4 - Ferramentas](#4---ferramentas)
 
 ## 1 - Introdução:
 
@@ -87,3 +90,48 @@
 - Após conhecer os integrantes, faça seu cronograma e distribua as tarefas de acordo ao perfil de cada integrante (sabendo quais demoram mais, quais são mais rápidos, etc.) da melhor forma para que ninguém fique sem trabalho;
 - Asana: ferramenta de distribuição de tarefas;
 - É importante que todos estejam cientes do que os outros integrantes estão fazendo (e do cronograma) para manter a **equalização** da ideia;
+
+## 4 - Ferramentas:
+
+- As ferramentas devem auxiliar para que o projeto flua da maneira mais adequada possível;
+
+### Comunicação:
+
+- Skype: muito consistente, conecta com outras ferramentas (como o Facebook) para obter os contatos;
+
+### Contrato:
+
+- HelloSign: assinatura digital de contratos;
+
+### Compartilhamento de arquivos:
+
+- Dropbox: Utilizado para compartilhar arquivos;
+- Google Drive: Utilizado para enviar arquivos utilizados no dia-a-dia (textos, *assets*, músicas);
+- Bitbucket: Repositório de arquivos;
+- Sourcetree: Interface gráfica do Git;
+
+### Organização/Planejamento:
+
+- Asana: Define as tarefas dos membros da equipe. Também pode definir um *deadline* para cada tarefa;
+
+### Game Engine:
+
+- Unity, Unreal Engine, GameMaker: A *Game Engine* depende do tipo de jogo que você quer fazer;
+
+### Monetização:
+
+- Admob: Ferramenta integrada à Unity para colocar anúncios nos seus jogos;
+- Google Analytics: Analisa a forma como o usuário joga o seu jogo (telas mais acessadas, tempo jogado, etc.);
+
+### Gráficos:
+
+#### Gratuito:
+
+- GIMP e Inkscape: Ilustrações, animações;
+- Movie Maker: Trailers;
+
+#### Pago:
+
+- Photoshop, Illustrator: Ilustrações, animações;
+- Adobe Muse: Website;
+- Adobe Premiere: Trailers;
