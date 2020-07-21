@@ -7,6 +7,7 @@
 - [5 - Fluxo de trabalho](#5---fluxo-de-trabalho)
 - [6 - Contrato](#6---contrato)
 - [7 - Home office](#7---home-office)
+- [8 - Organização pessoal](#8---organização-pessoal)
 
 ## 1 - Introdução:
 
@@ -175,3 +176,17 @@
 - É importante também ter os equipamentos necessários para testar;
 - Se o jogo será feito para consoles, tenha os *devkits* do *Playstation* e do *Xbox*. Se o jogo for feito para Android, teste em vários dispositivos, desde *High-end* ao *Low-end*. Se for para iOS, tenha ao menos um Mac (para exportar o jogo) e um dispositivo da Apple (*iPhone*, *iPad*). Se você for um artista, tenha uma mesa digitalizadora para criar as texturas/modelos. Se for trabalhar com som, tenha um microfone e os equipamentos necessários para gravar;
 - Outra opção é conseguir uma parceria com uma empresa que fornece os equipamentos e *devkits* para sua equipe. Para conseguir isso, exponha seus trabalhos para que as empresas entrem em contato com sua equipe;
+
+## 8 - Organização pessoal:
+
+- O líder de projeto deve ser o mais organizado de toda equipe. Ele deve manter o auto-controle e saber lidar com situações de *stress*;
+
+### Dicas:
+
+1. Seja honesto consigo mesmo e aceite suas limitações. Se cerque de pessoas que suprem suas limitações;
+2. Mantenha o controle sobre tudo que está acontecendo, principalmente em momentos de *stress*;
+3. Utilize a tecnologia a seu favor;
+4. Mantenha a coerência do seu trabalho. Analise o que sua equipe é capaz de fazer e não defina tarefas impossíveis. Não assuma compromissos que você não pode cumprir;
+5. Aproveite ao máximo os intervalos do seu dia. Utilize as pausas e intervalos para realizar tarefas pequenas;
+6. Deixe bem claro como irá monetizar o projeto (defina isso no *GDD*). Isso é importante para que a equipe saiba que terá retorno quando finalizar o projeto;
+7. Mostre seu jogo ao mundo. Isso fará diferença no resultado final, ampliando o *marketing*;
