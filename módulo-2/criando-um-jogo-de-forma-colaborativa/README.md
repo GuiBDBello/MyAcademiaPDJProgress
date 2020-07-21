@@ -4,6 +4,7 @@
 - [2 - Game Design Document (GDD)](#3---game-design-document-gdd)
 - [3 - Organização](#3---organização)
 - [4 - Ferramentas](#4---ferramentas)
+- [5 - Fluxo de trabalho](#5---fluxo-de-trabalho)
 
 ## 1 - Introdução:
 
@@ -135,3 +136,16 @@
 - Photoshop, Illustrator: Ilustrações, animações;
 - Adobe Muse: Website;
 - Adobe Premiere: Trailers;
+
+## 5 - Fluxo de trabalho:
+
+- A forma de organizar sua equipe e ferramentas para fazer o que foi escrito no *GDD* acontecer:
+1. Escolha uma ideia, realize diversos *Brainstorm* até refinar e polir a ideia;
+2. Crie um protótipo visual;
+3. Pesquise referências gráficas e de *gameplay*;
+4. Parta para o *GDD*, coloque as ideias no papel;
+5. Faça o **acompanhamento do cronograma**;
+6. Distribua as tarefas e acompanhe seu progresso;
+7. Faça a unificação dos arquivos (Google Drive, Bitbucket, Dropbox);
+8. Atualize constantemente os arquivos do jogo e o *GDD*;
+9. Faça relatórios semanais do seu trabalho para que todos possam consultar o trabalho feito por cada membro da equipe;
