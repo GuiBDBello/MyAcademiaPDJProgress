@@ -9,6 +9,7 @@
 - [7 - Home office](#7---home-office)
 - [8 - Organização pessoal](#8---organização-pessoal)
 - [9 - Networking](#9---networking)
+- [10 - Endomarketing e marketing institucional](#10---endomarketing-e-marketing-institucional)
 
 ## 1 - Introdução:
 
@@ -198,3 +199,9 @@
 - Para expandir seu *networking* é essencial participar de eventos (*game jams*, eventos de design, programação, eventos da Unity, etc.);
 - Participe de fóruns de desenvolvimento de jogos para criar laços com outros desenvolvedores. Ajude e peça ajuda;
 - Atue nos veículos de mídia especializada (sites, e-mail, jornalistas);
+
+## 10 - Endomarketing e marketing institucional:
+
+- Endomarketing: Interno, para sua equipe. Manter a equipe ciente do que está acontecendo e motivada a trabalhar. **Ex.:** elogios, críticas construtivas, elogiando em público, posts no Facebook sobre os membros da equipe;
+- Marketing institucional: Não apresenta o produto, mas a empresa. Estreita o canal de relacionamento com o consumidor. Faz os consumidores querer saber o que a empresa está fazendo, e se apaixonar pela empresa. **Ex.:** site, redes sociais, blog;
+- Invista nesses tipos de *marketing* constantemente (antes, durante e depois do lançamento do jogo);
