@@ -8,6 +8,7 @@
 - [6 - Contrato](#6---contrato)
 - [7 - Home office](#7---home-office)
 - [8 - Organização pessoal](#8---organização-pessoal)
+- [9 - Networking](#9---networking)
 
 ## 1 - Introdução:
 
@@ -190,3 +191,10 @@
 5. Aproveite ao máximo os intervalos do seu dia. Utilize as pausas e intervalos para realizar tarefas pequenas;
 6. Deixe bem claro como irá monetizar o projeto (defina isso no *GDD*). Isso é importante para que a equipe saiba que terá retorno quando finalizar o projeto;
 7. Mostre seu jogo ao mundo. Isso fará diferença no resultado final, ampliando o *marketing*;
+
+## 9 - Networking:
+
+- Propaga seus projetos enquanto mantém contato e gera possíveis parcerias comerciais;
+- Para expandir seu *networking* é essencial participar de eventos (*game jams*, eventos de design, programação, eventos da Unity, etc.);
+- Participe de fóruns de desenvolvimento de jogos para criar laços com outros desenvolvedores. Ajude e peça ajuda;
+- Atue nos veículos de mídia especializada (sites, e-mail, jornalistas);
