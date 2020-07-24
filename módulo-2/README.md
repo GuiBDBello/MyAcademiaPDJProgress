@@ -10,6 +10,7 @@
 - [Como sair da ideia inicial para trabalhar realmente em um jogo](./como-sair-da-ideia-inicial-para-trabalhar-realmente-em-um-jogo)
 - [Dicas de como fazer um jogo point-and-click](./dicas-de-como-fazer-um-jogo-point-and-click)
 - [O Processo de Game Design do Spooklands](./o-processo-de-game-design-do-spooklands)
+- [Recomendações para quem quer ser um bom Game Designer (sites e bibliografia)](./recomendações-para-quem-quer-ser-um-bom-game-designer-sites-e-bibliografia)
 
 ## Prototipagem e Pré-Produção:
 
