@@ -7,6 +7,7 @@
 - [Game Design para Jogos Pequenos](./game-design-para-jogos-pequenos)
 - [Criando um Jogo de Forma Colaborativa](./criando-um-jogo-de-forma-colaborativa)
 - [GDD de 1 página](./gdd-de-1-página)
+- [Como sair da ideia inicial para trabalhar realmente em um jogo](./como-sair-da-ideia-inicial-para-trabalhar-realmente-em-um-jogo)
 
 ## Prototipagem e Pré-Produção:
 
