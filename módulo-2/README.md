@@ -9,6 +9,7 @@
 - [GDD de 1 página](./gdd-de-1-página)
 - [Como sair da ideia inicial para trabalhar realmente em um jogo](./como-sair-da-ideia-inicial-para-trabalhar-realmente-em-um-jogo)
 - [Dicas de como fazer um jogo point-and-click](./dicas-de-como-fazer-um-jogo-point-and-click)
+- [O Processo de Game Design do Spooklands](./o-processo-de-game-design-do-spooklands)
 
 ## Prototipagem e Pré-Produção:
 
